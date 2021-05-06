@@ -1,38 +1,76 @@
-.App {
-  text-align: center;
+* {
+    margin: 0;
+    padding: 0;
+}
+a {
+    text-decoration: none;
+}
+html {
+    font-size: 10px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+body {
+    background-color: #eaeaea;
+    direction: rtl;
+    font-family: Shabnam;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+h1 {
+    text-align: center;
+    font-family: Shabnam;
+    padding: 10px 0 5px 0;
+    font-size: 4rem;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.main {
+    max-width: 1100px;
+    width: 90%;
+    background-color: white;
+    margin: 100px auto;
 }
 
-.App-link {
-  color: #61dafb;
+.table-row {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    background-color: #181c27;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.04);
+    color: #d7d7d7;
+    cursor: pointer;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.table-row .row-columns {
+    display: grid;
+    grid-template-columns: 200px 2fr 1fr 1fr 30px;
+    font-family: Shabnam;
+    padding: 20px 7px;
+    font-size: 1.6rem;
+}
+
+.arrow-icon.active {
+    transform: rotate(180deg);
+}
+
+.table-row .row-description {
+    width: 100%;
+    color: white;
+    font-size: 1.4rem;
+    padding: 20px 7px;
+}
+
+.table-row.is-head {
+    color: white;
+}
+
+.table-row .arrow-icon {
+    width: 15px;
+    height: 15px;
+}
+
+.table-row .arrow-icon polygon {
+    fill: #d7d7d7;
 }
