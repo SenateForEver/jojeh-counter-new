@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/jojeh-counter-new/static/css/main.9eaa372c.chunk.css",
-    "main.js": "/jojeh-counter-new/static/js/main.2f0df661.chunk.js",
-    "main.js.map": "/jojeh-counter-new/static/js/main.2f0df661.chunk.js.map",
-    "runtime-main.js": "/jojeh-counter-new/static/js/runtime-main.20895429.js",
-    "runtime-main.js.map": "/jojeh-counter-new/static/js/runtime-main.20895429.js.map",
-    "static/js/2.5a5d9595.chunk.js": "/jojeh-counter-new/static/js/2.5a5d9595.chunk.js",
-    "static/js/2.5a5d9595.chunk.js.map": "/jojeh-counter-new/static/js/2.5a5d9595.chunk.js.map",
-    "static/js/3.29f88060.chunk.js": "/jojeh-counter-new/static/js/3.29f88060.chunk.js",
-    "static/js/3.29f88060.chunk.js.map": "/jojeh-counter-new/static/js/3.29f88060.chunk.js.map",
+    "main.css": "/jojeh-counter-new/static/css/main.92b6b9ad.chunk.css",
+    "main.js": "/jojeh-counter-new/static/js/main.5bb88c8c.chunk.js",
+    "main.js.map": "/jojeh-counter-new/static/js/main.5bb88c8c.chunk.js.map",
+    "runtime-main.js": "/jojeh-counter-new/static/js/runtime-main.9df30e62.js",
+    "runtime-main.js.map": "/jojeh-counter-new/static/js/runtime-main.9df30e62.js.map",
+    "static/css/2.c55f41dc.chunk.css": "/jojeh-counter-new/static/css/2.c55f41dc.chunk.css",
+    "static/js/2.76e1d043.chunk.js": "/jojeh-counter-new/static/js/2.76e1d043.chunk.js",
+    "static/js/2.76e1d043.chunk.js.map": "/jojeh-counter-new/static/js/2.76e1d043.chunk.js.map",
+    "static/js/3.6c124142.chunk.js": "/jojeh-counter-new/static/js/3.6c124142.chunk.js",
+    "static/js/3.6c124142.chunk.js.map": "/jojeh-counter-new/static/js/3.6c124142.chunk.js.map",
     "index.html": "/jojeh-counter-new/index.html",
-    "static/css/main.9eaa372c.chunk.css.map": "/jojeh-counter-new/static/css/main.9eaa372c.chunk.css.map",
-    "static/js/2.5a5d9595.chunk.js.LICENSE.txt": "/jojeh-counter-new/static/js/2.5a5d9595.chunk.js.LICENSE.txt",
+    "static/css/2.c55f41dc.chunk.css.map": "/jojeh-counter-new/static/css/2.c55f41dc.chunk.css.map",
+    "static/css/main.92b6b9ad.chunk.css.map": "/jojeh-counter-new/static/css/main.92b6b9ad.chunk.css.map",
+    "static/js/2.76e1d043.chunk.js.LICENSE.txt": "/jojeh-counter-new/static/js/2.76e1d043.chunk.js.LICENSE.txt",
     "static/media/arrow.25e2bf48.svg": "/jojeh-counter-new/static/media/arrow.25e2bf48.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.20895429.js",
-    "static/js/2.5a5d9595.chunk.js",
-    "static/css/main.9eaa372c.chunk.css",
-    "static/js/main.2f0df661.chunk.js"
+    "static/js/runtime-main.9df30e62.js",
+    "static/css/2.c55f41dc.chunk.css",
+    "static/js/2.76e1d043.chunk.js",
+    "static/css/main.92b6b9ad.chunk.css",
+    "static/js/main.5bb88c8c.chunk.js"
   ]
 }
