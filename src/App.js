@@ -165,6 +165,9 @@ const ChickenTab = ({close}) => {
     const [userId, setUserId] = useState("");
     const [description, setDescription] = useState("");
     const addUser = async (event) => {
+        if(userId === "") {
+            return;
+        }
         event.preventDefault()
         await db.collection("chickens").add({
             chicken_count: count,
